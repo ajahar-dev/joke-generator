@@ -15,7 +15,7 @@ body {
 .container {
     /* border: 2px solid black; */
     width: 400px;
-    height: 200px;
+    min-height: 200px;
     border-radius: 20px;
     box-shadow: 0 0 20px rgb(147, 147, 147);
     display: flex;
@@ -23,6 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: white;
+    padding-bottom: 7px;
 }
 
 h1 {
