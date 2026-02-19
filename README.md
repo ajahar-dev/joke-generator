@@ -18,9 +18,7 @@ Built using **HTML, CSS, and JavaScript**.
 * Joke API (for fetching jokes)
 
 ## 📸 Preview
-
-Click the button to get a random joke!
-
+https://github.com/user-attachments/assets/999bcbee-4450-4c7f-bd77-810fc5cbdaaa
 ## 📂 Project Structure
 
 ```
@@ -35,7 +33,7 @@ joke-generator/
 ## 🌐 Live Demo
 
 ```
-https://your-username.github.io/joke-generator/
+https://ajahar-dev.github.io/joke-generator/
 ```
 
 ## 📌 Future Improvements
